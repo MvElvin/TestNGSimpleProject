@@ -6,7 +6,7 @@
             <include name="regression"/>
         </run>
     </groups>
-    <test name="Ohrm">
+    <test name="OHRM">
         <classes>
             <class name="com.ohrm.login.LoginPageTest"></class>
         </classes>
